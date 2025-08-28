@@ -107,7 +107,6 @@ flutter run
 ##  Author
 
 Developed by **Zahira Hamza** 
-🔗 [GitHub](https://github.com/Zahira-Hamza)
 
 ---
 
